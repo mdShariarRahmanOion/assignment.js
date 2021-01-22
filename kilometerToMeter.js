@@ -4,5 +4,5 @@
         return meter;
     }
 
-    var result = kilometerToMeter(10);
+    var result = kilometerToMeter(120);
     console.log(result);
